@@ -1,4 +1,3 @@
-﻿//ссылка: https://github.com/Julia20011974/AaSD
 package lab_6;
 import java.util.concurrent.*;
 
